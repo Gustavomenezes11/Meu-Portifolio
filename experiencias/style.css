@@ -1,0 +1,42 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #363636;
+}
+header{
+    text-align: center;
+    text-shadow: 10px;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+button{
+    padding: 8px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #B22222;
+    -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}
+.titulo{
+    color: white;
+    background-color: #B22222;
+    position: absolute;
+    top: 20%;
+}
+.experienciass{
+    margin-top: 10%;
+    color: white;
+}
+.registro{
+    opacity:0.5;
+    position: absolute;
+    top: 125%;
+    left: 45%
+}
+.registro:hover{
+    opacity:1;
+
+}
